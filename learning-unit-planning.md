@@ -8,14 +8,14 @@ Claudio & CODE University: DLT (Blockchain) & Decentralisation -  Open Source Le
   + Disruption
 
 
-** Application types **
++ Application type
   + Payment
   + Record Keeping
   + Decentral Computing
   + Digital Ownership
 
 
-++ Application areas ++
++ Application areas
   + Store of value
   + Everyday payment
   + digital ownership of physical goods
@@ -65,7 +65,7 @@ Claudio & CODE University: DLT (Blockchain) & Decentralisation -  Open Source Le
   + Automatisation
   + Restrictions
   + Environments
-    + Ethereum Virtual Machine
+  + Ethereum Virtual Machine
 + Solidity
 + Vyper
 
@@ -82,9 +82,8 @@ Claudio & CODE University: DLT (Blockchain) & Decentralisation -  Open Source Le
   + Waffle
   + Web3
   + Transaction Explorers
-    + Etherscan
   + Audits
-    + Open Zepplin Contracts
+  + Open Zepplin Contracts
   + Upgradable Contracts
   + Registries
     
